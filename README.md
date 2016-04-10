@@ -11,19 +11,26 @@
  1. [网络相关问题](#network-questions)
 
 #### General Questions
+ 
+ 1. 移动端页面中 `viewport` 应当如何理解和使用？
+ 1. 你怎么理解 `Webcomponent` 的？
+ 1. _React_ 的 DOM Diff 算法为什么被认为是高效的？
+
 #### Js Questions
 
- 1. `Object.getOwnPropertyName` 与 `Object.keys` 有何区别？
+ 1. `Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？
  1. `Object.preventExtensions` 、`Object.seal` 与 `Object.freeze` 的区别？
  1. `document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？
- 1. `instanceOf` 的原理？
+ 1. `instanceof` 的原理？
+ 1. _==_ 运算符是怎样工作的？
 
 #### CSS Questions
 
  1. 清除（闭合）浮动的方法与原理？
  1. 怎么理解 _BFC_？
  1. 怎么理解 _z-index_ 上下文？
- 1. 图片下面出现的3像素是什么原理？
+ 1. 图片下面经常出现的3像素是什么原因导致的？
+ 1. 用 CSS实现一个三角形
 
 #### HTML Questions
 
