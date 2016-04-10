@@ -4,14 +4,14 @@
 
 ## 目标
 
- 1. [常见问题](#general-questions) 
- 1. [JS 问题](#js-questions) 
- 1. [CSS 问题](#css-questions)
- 1. [HTML 问题](#html-questions)
- 1. [网络相关问题](#network-questions)
+ 1. [常见问题](#常见问题) 
+ 1. [JS 问题](#js-问题) 
+ 1. [CSS 问题](#css-问题)
+ 1. [HTML 问题](#html-问题)
+ 1. [网络相关问题](#网络相关问题)
 
-#### <a name='general-questions'>常见问题：</a>
-#### <a name='js-questions'>JS 问题：</a>
-#### <a name='css-questions'>CSS 问题：</a>
-#### <a name='html-questions'>HTML 问题：</a>
-#### <a name='network-questions'>网络相关问题：</a>
+#### 常见问题：
+#### JS 问题：
+#### CSS 问题：
+#### HTML 问题：
+#### 网络相关问题：
