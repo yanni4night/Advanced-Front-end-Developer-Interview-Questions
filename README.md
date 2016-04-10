@@ -2,16 +2,16 @@
 
 资深前端面试题
 
-## 目标
+## 目录
 
- 1. [常见问题](#常见问题) 
- 1. [JS 问题](#js-问题) 
- 1. [CSS 问题](#css-问题)
- 1. [HTML 问题](#html-问题)
- 1. [网络相关问题](#网络相关问题)
+ 1. [常见问题](#general-questions) 
+ 1. [JS 问题](#js-questions) 
+ 1. [CSS 问题](#css-questions)
+ 1. [HTML 问题](#html-questions)
+ 1. [网络相关问题](#network-questions)
 
-#### 常见问题：
-#### JS 问题：
-#### CSS 问题：
-#### HTML 问题：
-#### 网络相关问题：
+#### General Questions
+#### Js Questions
+#### Css Questions
+#### Html Questions
+#### Network Questions
