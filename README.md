@@ -12,6 +12,24 @@
 
 #### General Questions
 #### Js Questions
-#### Css Questions
-#### Html Questions
+
+ 1. `Object.getOwnPropertyName` 与 `Object.keys` 有何区别？
+ 1. `Object.preventExtensions` 、`Object.seal` 与 `Object.freeze` 的区别？
+ 1. `document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？
+ 1. `instanceOf` 的原理？
+
+#### CSS Questions
+
+ 1. 清除（闭合）浮动的方法与原理？
+ 1. 怎么理解 _BFC_？
+ 1. 怎么理解 _z-index_ 上下文？
+ 1. 图片下面出现的3像素是什么原理？
+
+#### HTML Questions
+
+ 1. `data-*` 属性有何意义？
+
 #### Network Questions
+
+ 1. __HTTP__ 第二个 _T_ 为什么是 _transfer_ 而不是 _transport_？
+ 1. __HTTP__ 的缓存机制是怎样工作的？ 
