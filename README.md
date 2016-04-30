@@ -23,6 +23,7 @@
  1. `document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？
  1. `instanceof` 的原理？
  1. _==_ 运算符是怎样工作的？
+ 1. `in` 与 `hasOwnProperty` 的区别？ 
 
 #### CSS Questions
 
@@ -30,7 +31,7 @@
  1. 怎么理解 _BFC_？
  1. 怎么理解 _z-index_ 上下文？
  1. 图片下面经常出现的3像素是什么原因导致的？
- 1. 用 CSS实现一个三角形
+ 1. 用 CSS 实现一个三角形
 
 #### HTML Questions
 
