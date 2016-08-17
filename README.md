@@ -20,7 +20,7 @@
 
 #### Js Questions
 
- 1. `Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？
+ 1. [`Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？](http://jsbin.com/mibayi/edit?js,console)
  1. `Object.preventExtensions` 、`Object.seal` 与 `Object.freeze` 的区别？
  1. `document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？
  1. `instanceof` 的原理？
