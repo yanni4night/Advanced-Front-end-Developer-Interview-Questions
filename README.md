@@ -15,6 +15,7 @@
  1. 移动端页面中 `viewport` 应当如何理解和使用？
  1. 你怎么理解 `Webcomponent` 的？
  1. _React_ 的 DOM Diff 算法为什么被认为是高效的？
+ 1. _React_ 中直接调用给 state 赋值和调用 setState() 有什么区别？
  1. 如何优化正则表达式的性能？ 
 
 #### Js Questions
