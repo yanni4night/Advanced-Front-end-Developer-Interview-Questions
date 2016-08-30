@@ -23,23 +23,23 @@
  1. [`Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？](http://jsbin.com/mibayi/edit?js,console)
  1. `Object.preventExtensions` 、`Object.seal` 与 `Object.freeze` 的区别？
  1. `document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？
- 1. `instanceof` 的原理？
+ 1. [`instanceof` 的原理？](http://jsbin.com/puxiyib/edit?html,js,console)
  1. _==_ 运算符是怎样工作的？
- 1. `in` 与 `hasOwnProperty` 的区别？ 
+ 1. [`in` 与 `hasOwnProperty` 的区别？](http://jsbin.com/mumoho/edit?js,console)
 
 #### CSS Questions
 
  1. 清除（闭合）浮动的方法与原理？
  1. 怎么理解 _BFC_？
  1. 怎么理解 _z-index_ 上下文？
- 1. 图片下面经常出现的3像素是什么原因导致的？
- 1. 用 CSS 实现一个三角形
+ 1. [图片下面经常出现的几像素空隙是什么原因导致的？](http://jsbin.com/vociri/1/edit?html,css,js,output)
+ 1. [用 CSS 实现一个三角形](http://jsbin.com/qewiyaz/1/edit?html,css,output)
 
 #### HTML Questions
 
- 1. `data-*` 属性有何意义？
+ 1. [`data-*` 属性有何意义？](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset)
 
 #### Network Questions
 
- 1. __HTTP__ 第二个 _T_ 为什么是 _transfer_ 而不是 _transport_？
- 1. __HTTP__ 的缓存机制是怎样工作的？ 
+ 1. [__HTTP__ 第二个 _T_ 为什么是 _transfer_ 而不是 _transport_？](http://www.restpatterns.org/Articles/Why_HTTP_Isn't_A_Transport_Protocol)
+ 1. [__HTTP__ 的缓存机制是怎样工作的？](http://toutiao.com/i6263607838380130817/?iid=3816244648&app=news_article) 
