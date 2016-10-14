@@ -17,7 +17,7 @@
  1. _React_ 的 DOM Diff 算法为什么被认为是高效的？
  1. [_React_ 中直接调用给 state 赋值和调用 setState() 有什么区别？](https://medium.com/react-ecosystem/how-to-handle-state-in-react-6f2d3cd73a0c)
  1. [如何优化正则表达式的性能？](https://site-reliability.org/regular-expression-regex-performance-the-fundamental-guide-3d39e6af33af)
-
+ 1. [bluebird 的性能提升点是什么？](http://programmers.stackexchange.com/questions/278778/why-are-native-es6-promises-slower-and-more-memory-intensive-than-bluebird?answertab=votes#answer-279003)
 #### Js Questions
 
  1. [`Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？](http://jsbin.com/mibayi/edit?js,console)
