@@ -28,6 +28,7 @@
  1. [_==_ 运算符是怎样工作的？](http://yanni4night.com/2014/08/29/principle-==/)
  1. [`in` 与 `hasOwnProperty` 的区别？](http://jsbin.com/mumoho/edit?js,console)
  1. _async/await_ 的原理？
+ 1. `Object.is` 与 `===` 有何区别？
 
 #### CSS Questions
 
