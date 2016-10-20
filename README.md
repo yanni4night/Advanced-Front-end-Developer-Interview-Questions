@@ -21,15 +21,16 @@
 
 #### Js Questions
 
- 1. [`Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？](http://jsbin.com/mibayi/edit?js,console)
- 1. [`Object.preventExtensions` 、`Object.seal` 与 `Object.freeze` 的区别？](https://jsbin.com/kamowo/3/edit?html,js,output)
- 1. [`document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？](https://jsbin.com/micuvigadi/edit?html,js,console)
+ 1. [`Object.getOwnPropertyNames` 与 `Object.keys` 有何区别？](http://jsbin.com/mibayi/5/edit?js,output)
+ 1. [`Object.preventExtensions` 、`Object.seal` 与 `Object.freeze` 的区别？](https://jsbin.com/kamowo/6/edit?js,output)
+ 1. [`document.querySelectorAll` 与 `document.getElementsBy*` 的返回值有什么区别？](https://jsbin.com/vetiley/edit?js,output)
  1. [`instanceof` 的原理？](http://jsbin.com/puxiyib/edit?html,js,console)
  1. [_==_ 运算符是怎样工作的？](http://yanni4night.com/2014/08/29/principle-==/)
  1. [`in` 与 `hasOwnProperty` 的区别？](http://jsbin.com/mumoho/edit?js,console)
  1. _async/await_ 的原理？
- 1. [`Object.is` 与 `===` 有何区别？](https://jsbin.com/fesesi/1/edit?html,js,output)
- 1. [`Array.of` 与 `new Array` 有何区别？](https://jsbin.com/qababa/8/edit?html,js,output)
+ 1. [`Object.is` 与 `===` 有何区别？](https://jsbin.com/fesesi/1/edit?js,output)
+ 1. [`Array.of` 与 `new Array` 有何区别？](https://jsbin.com/qababa/8/edit?js,output)
+ 1. [`array.includes(ele)` 与 `array.indexOf(ele)>-1` 有何区别？](https://jsbin.com/duviqup/6/edit?js,output)
 
 #### CSS Questions
 
