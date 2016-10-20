@@ -29,6 +29,7 @@
  1. [`in` 与 `hasOwnProperty` 的区别？](http://jsbin.com/mumoho/edit?js,console)
  1. _async/await_ 的原理？
  1. [`Object.is` 与 `===` 有何区别？](https://jsbin.com/fesesi/1/edit?html,js,output)
+ 1. [`Array.of` 与 `new Array` 有何区别？](https://jsbin.com/qababa/8/edit?html,js,output)
 
 #### CSS Questions
 
