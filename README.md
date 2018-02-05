@@ -32,6 +32,7 @@
  1. [`Array.of` 与 `new Array` 有何区别？](https://jsbin.com/qababa/8/edit?js,output)
  1. [`array.includes(ele)` 与 `array.indexOf(ele)>-1` 有何区别？](https://jsbin.com/duviqup/6/edit?js,output)
  1. [如何判断一个变量是整型数字？](https://tc39.github.io/ecma262/#sec-isinteger)
+ 1. [什么样的值能作为对象的 key？](https://tc39.github.io/ecma262/#sec-ispropertykey) 
 
 #### CSS Questions
 
