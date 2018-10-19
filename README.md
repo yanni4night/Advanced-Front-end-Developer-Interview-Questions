@@ -29,7 +29,7 @@
  1. [_==_ 运算符是怎样工作的？](https://yanni4night.github.io/js/2014/08/29/principle-==.html)
  1. [`in` 与 `hasOwnProperty` 的区别？](http://jsbin.com/mumoho/edit?js,console)
  1. [`obj.prop = 123`与`Object.defineProperty(obj, 'prop', { value: 123 })`有什么区别？](https://jsbin.com/numofiz/1/edit?js,output)
- 1. 用 ES2015 代码实现继承
+ 1. [用 ES2015 代码实现继承](https://jsbin.com/mugucoq/1/edit?js,console)
  1. 对象的属性 key 可以是哪些类型？
  1. <del>async/await 的原理？</del>
  1. <del> [`Object.is` 与 `===` 有何区别？](https://jsbin.com/fesesi/1/edit?js,output)</del>
